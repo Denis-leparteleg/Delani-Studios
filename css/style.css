@@ -88,3 +88,22 @@
     text-align: center;
     color:white;
   }
+  #name1{
+    width: 30%;
+    margin-left: 18%;
+    margin-right: 30px;
+  }
+  #name2{
+    width: 30%;
+    margin-left: 18%;
+    margin-right: 30px;
+  }
+  #comment{
+    margin-top:0;
+  }
+  
+  form{
+    width:60%;
+    margin: auto;
+    background-color: transparent;
+  }
