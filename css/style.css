@@ -7,3 +7,18 @@
     font-size: smaller;
     color: white;
   }
+  #welcome {
+    padding-top: 150px;
+  }
+  
+  #logo {
+    padding-bottom: 20px;
+  }
+  
+  #mouse {
+    padding-top: 130px;
+  }
+  
+  #about {
+    text-align: center;
+  }
