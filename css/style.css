@@ -1,0 +1,9 @@
+.landing{
+    background-image: url(assets/images/h_img.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    text-align: center;
+    font-size: smaller;
+    color: white;
+  }
