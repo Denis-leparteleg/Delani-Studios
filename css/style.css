@@ -38,3 +38,16 @@
     display: none;
     font-size: 16px;
   }
+  #portfolio {
+    align-items: center;
+    display: flex;
+    margin-right: 16%;
+    margin-left: 18%;
+    flex-wrap: wrap;
+    padding: 10px;
+  }
+  
+  .portfolio h2 {
+    text-align: center;
+    padding-top: 40px;
+  }
