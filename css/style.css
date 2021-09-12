@@ -22,3 +22,19 @@
   #about {
     text-align: center;
   }
+  #services {
+    text-align: center;
+    color: white;
+    background-image: url(../assets/backgrounds/s_image.jpg);
+  }
+  
+  #whatwedo {
+    text-align: center;
+  }
+  
+  #designdesc,
+  #development,
+  #product {
+    display: none;
+    font-size: 16px;
+  }
