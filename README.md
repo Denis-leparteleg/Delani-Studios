@@ -7,6 +7,7 @@ This is a landing page for Delani Studios.
 Denis Leparteleg:https://github.com/Denis-leparteleg
 
 ## Behavior Driven Development (BDD).
+     <table>
         <tr>
           <th>Behavior</th>
           <th>Input</th>
