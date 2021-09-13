@@ -6,14 +6,30 @@ This is a landing page for Delani Studios.
 ## Author.
 Denis Leparteleg:https://github.com/Denis-leparteleg
 
+## Behavior Driven Development (BDD).
+        <tr>
+          <th>Behavior</th>
+          <th>Input</th>
+          <th>Output</th>
+        </tr>
+        <tr>
+          <td>User accesses the form</td>
+        </tr>
+        <tr>
+          <td>Name,Email & Message</td>
+        </tr>
+        <tr>
+          <td>Alert massage upon submission</td>
+        </tr>
+      </table>
+
 ## Specifications.
 To be able to access the application the user should install the latest version of google chrome, mozilla firefox or explore and load the live link provided.
 from this point the user can access an online site, and can be able to:
 ```
-+ See a  small description of what the application does on the landing page.
-+ Enter my birthday through a form.
-+ Choose what gender I am.
-+ Click the submit button to see what my Akan name would be.
++ Enter name.
++ Enter email address.
++ Type in the message.
 
 ```
 ##  live link to site.
@@ -65,5 +81,5 @@ Copyright (c) 2021 **Denis-Leparteleg**
 ```
 ## Acknowledgments
 
-* A big up to Moringa a School for the lessons on how to program.
+* A big up to Moringa School for the lessons on how to program.
 * Team mates who have helped me with blockers.
