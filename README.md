@@ -7,18 +7,18 @@ This is a landing page for Delani Studios.
 Denis Leparteleg:https://github.com/Denis-leparteleg
 
 ## Behavior Driven Development (BDD).
-    <table>
-      <tr>
-        <th>Behavior</th>
-        <th>Input</th>
-        <th>Output</th>
-      </tr>
-      <tr>
+<table>
+        <tr>
+          <th>Behavior</th>
+          <th>Input</th>
+          <th>Output</th>
+        </tr>
+        <tr>
         <td>User accesses the form</td>
         <td>Name,Email & Message</td>
         <td>Alert massage upon submission</td>
-      </tr>
-    </table>
+        </tr>
+      </table>
 ## Specifications.
 To be able to access the application the user should install the latest version of google chrome, mozilla firefox or explore and load the live link provided.
 from this point the user can access an online site, and can be able to:
